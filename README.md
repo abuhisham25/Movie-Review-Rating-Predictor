@@ -1,5 +1,6 @@
 # Movie-Review-Rating-Predictor #
-This project implements a movie predictor which computes the star rating of a given movie review by analyzing its content using learning algorithms from the scikit-learn library, and data from IMDb movie ratings.  
+This project implements a movie predictor which computes the star rating of a given movie review by analyzing its content using learning algorithms from the scikit-learn library, and data from IMDb movie ratings. 
+
 The project aims to solve the problem of predicting the possible score (rating) of a review based on the data in it.  
 We target the reviews of movies written by users at the IMDb website. At this website, users can write reviews on movies they have watched and include a rating from to of the movie.  
 Our job is to take the review written by a user and predict the value of the rating he gave alongside his review. 
