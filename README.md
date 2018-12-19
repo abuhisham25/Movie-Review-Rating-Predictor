@@ -12,4 +12,4 @@ See movieRatingPredictor.pdf for implementation details.
 ![dataWordCloud](https://github.com/abuhisham25/Movie-Review-Rating-Predictor/blob/master/Data/dataVisualization.png)
 
 # Contact #
-For more details about me, please see [my Linkedin page](https://www.linkedin.com/in/abuhisham/)
+For more details about me, please see [my LinkedIn page](https://www.linkedin.com/in/abuhisham/)
